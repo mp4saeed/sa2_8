@@ -1,5 +1,5 @@
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+-----my_name_is_ehsan*#@Saee_d_28
+-----@Saee_d_28     saeed
 -----لطفا پیام بالا رو پاک نکنید
 local SUDO = 323046540 -- put Your ID here! <===
 function exi_files(cpath)
@@ -1067,7 +1067,7 @@ patterns = {
 }, 
 run = run, pre_process = pre_process
 }
--- #End By @RICH_ENERGY
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+-- #End By @Saee_d_28
+-----my_name_is_ehsan*#@Saee_d_28
+-----@Saee_d_28     saeed
 -----لطفا پیام بالا رو پاک نکنید
