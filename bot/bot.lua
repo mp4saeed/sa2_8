@@ -1,6 +1,6 @@
--- #@ENERGY_TEAM
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+-- #@Saee_d_28
+-----my_name_is_ehsan*#@Saee_d_28
+-----@Saee_d_28     saeed
 -----لطفا پیام بالا رو پاک نکنید
 
 tdcli = dofile('./tg/tdcli.lua')
@@ -120,7 +120,7 @@ An advanced administration bot based on https://valtman.name/telegram-cli
 》beyond_permag_bombang
 
 》Our channel :
-》@RICHENERGY%%@energy_team
+》@Saee_d_28%%@Saee_d_28
 
 》Our website :
 》http://telebombang.blogfa.com
@@ -414,6 +414,6 @@ function tdcli_update_callback (data)
 	end
 end
 
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+-----my_name_is_ehsan*#@Saee_d_28
+-----@Saee_d_28     saeed
 -----لطفا پیام بالا رو پاک نکنید
