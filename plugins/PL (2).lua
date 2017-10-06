@@ -2895,7 +2895,7 @@ end
 if matches[1] == "help" and is_mod(msg) then
 if not lang then
 text = [[
-[Help for ultra-energy]
+[Help for ultra-saeed]
 ⬛️》 saeed ⬛️
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
 ◽️》 !mod help
@@ -2915,7 +2915,7 @@ text = [[
 🔖powered by: *@Saee_d_28*]]
 elseif lang then
 text = [[
-[Help for ultra-energy]
+[Help for ultra-saeed]
 ⬛️》 saeed ⬛️
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
 ◽️》 !mod help
