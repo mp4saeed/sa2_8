@@ -1,6 +1,6 @@
-﻿--Begin Utils.lua By #ENERGY_TEAM :)
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+﻿--Begin Utils.lua By #saeed :)
+-----my_name_is_ehsan*#@Saee_d_28
+-----@Saee_d_28     saeed
 -----لطفا پیام بالا رو پاک نکنید
  local clock = os.clock
 function sleep(time)  -- seconds
@@ -891,6 +891,6 @@ else
      return filterlist
    end
 
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+-----my_name_is_ehsan*#@Saee_d_28
+-----@Saee_d_28     saeed
 -----لطفا پیام بالا رو پاک نکنید
