@@ -1,5 +1,5 @@
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+-----my_name_is_ehsan*#@Saee_d_28
+-----@Saee_d_28     saeed
 -----لطفا پیام بالا رو پاک نکنید
 local function pre_process(msg)
 	local chkfosh = redis:hget('settings:fosh',msg.chat_id_)
@@ -103,6 +103,6 @@ return {
   pre_process = pre_process
 }
 
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
+-----my_name_is_ehsan*#@Saee_d_28
+-----@Saee_d_28     saeed
 -----لطفا پیام بالا رو پاک نکنید
