@@ -25,20 +25,20 @@ install() {
 }
 
 function print_logo() {
-	green "         ENERGY  EHSAN    RICH         ENERGY"
-	green "         ENERGY  EHSAN    RICH         ENERGY"
-	green "         ENERGY  EHSAN    RICH         ENERGY"
-	green "         ENERGY  EHSAN    RICH         ENERGY"
+	green "         saeed  saeedi    RICH         saeed"
+	green "         saeed  saeedi    RICH         saeed"
+	green "         saeed  saeedi    RICH         saeed"
+	green "         saeed  saeedi    RICH         saeed"
 	echo -e "\n\e[0m"
 }
 
 function logo_play() {
     declare -A txtlogo
     seconds="0.010"
-    txtlogo[1]="ENERGY  EHSAN    RICH         ENERGY"
-    txtlogo[2]="ENERGY  EHSAN    RICH         ENERGY"
-    txtlogo[3]="ENERGY  EHSAN    RICH         ENERGY"
-    txtlogo[4]="ENERGY  EHSAN    RICH         ENERGY"
+    txtlogo[1]="saeed  saeedi    RICH         saeed"
+    txtlogo[2]="saeed  saeedi    RICH         saeed"
+    txtlogo[3]="saeed  saeedi    RICH         saeed"
+    txtlogo[4]="saeed  saeedi    RICH         saeed"
     printf "\e[31m\t"
     for i in ${!txtlogo[@]}; do
         for x in `seq 0 ${#txtlogo[$i]}`; do
@@ -55,10 +55,10 @@ function energy_team() {
 	echo -e "\e[0m"
 	green "     >>>>                       edir 4 source                                               "
 	green "     >>>>                       beyond.bombang and...                                       "
-	white "     >>>>                       edited by ehsan mafia_boy   @mafia_boy                      "
-	white "     >>>>                       @RICH_ENERGY                                                "
-	red   "     >>>>                       @ENERGY_TEAM                                                "
-	red   "     >>>>                       ENERGY_BOT                                                  "
+	white "     >>>>                       edited by ehsan mafia_boy   @Saee_d_28                      "
+	white "     >>>>                       @Saee_d_28                                                  "
+	red   "     >>>>                       @Saee_d_28                                                  "
+	red   "     >>>>                       @Saee_d_28                                                  "
 	echo -e "\e[0m"
 }
 
