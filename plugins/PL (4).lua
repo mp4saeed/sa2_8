@@ -1,5 +1,5 @@
------my_name_is_ehsan*#*@mafia_boy*
------@ENERGY_TEAM     FOR UPDATE
+-----my_name_is_ehsan*#*@Saee_d_28*
+-----@Saee_d_28     saeed
 -----لطفا پیام بالا رو پاک نکنید
 local function run (msg , matches)
 if matches[1]:lower() == "lock help" or matches[1] == 'راهنما قفل' and is_mod(msg) then
@@ -118,7 +118,7 @@ lock = [[
 【✘】unlock inline
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
 📮 با قفل کردن طبق دستورات بالا از ارسال مورد مدنظرتون جلوگیری میکنید.
-🔖powered by: *@mafia_boy*)]]
+🔖powered by: *@Saee_d_28*)]]
 
 elseif lang then
 
@@ -236,7 +236,7 @@ lock = [[
 【✘】unlock inline
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
 📮 با قفل کردن طبق دستورات بالا از ارسال مورد مدنظرتون جلوگیری میکنید.
-🔖powered by: *@mafia_boy*)]]
+🔖powered by: *@Saee_d_28*)]]
 end
 return lock
 end
@@ -366,7 +366,7 @@ helpfun = [[
 ● 》 setwelcome [text]
 🏷 تنظیم متن خوشامد گویی
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
-🔖powered by: *@mafia_boy* ]]
+🔖powered by: *@Saee_d_28* ]]
 tdcli.sendMessage(msg.chat_id_, 0, 1, helpfun, 1, 'md')
 else
 
@@ -493,7 +493,7 @@ helpfun = [[
 ● 》 setwelcome [text]
 🏷 تنظیم متن خوشامد گویی
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
-🔖powered by: *@mafia_boy* ]]
+🔖powered by: *@Saee_d_28* ]]
 tdcli.sendMessage(msg.chat_id_, 0, 1, helpfun, 1, 'md')
 end
 end
@@ -611,7 +611,7 @@ _💡این راهنما فقط برای سودو ها/ادمین های ربا�
 💡`این به این معناست که فقط سودو ها/ادمین های ربات میتوانند از دستورات بالا استفاده کنند`
 💡*This means only the sudoers and its bot admins can use mentioned commands.*
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
-● 》 powered by: *@mafia_boy* ]]
+● 》 powered by: *@Saee_d_28* ]]
 tdcli.sendMessage(msg.chat_id_, 0, 1, text, 1, 'md')
 else
 
@@ -725,7 +725,7 @@ _💡این راهنما فقط برای سودو ها/ادمین های ربا�
 💡`این به این معناست که فقط سودو ها/ادمین های ربات میتوانند از دستورات بالا استفاده کنند`
 💡*This means only the sudoers and its bot admins can use mentioned commands.*
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
-● 》 powered by: *@mafia_boy* ]]
+● 》 powered by: *@Saee_d_28* ]]
 tdcli.sendMessage(msg.chat_id_, 0, 1, text, 1, 'md')
 end
 end
@@ -744,6 +744,6 @@ patterns ={
 }, 
 run = run
 }
------my_name_is_ehsan*#*@mafia_boy*
------@ENERGY_TEAM     FOR UPDATE
+-----my_name_is_ehsan*#*@Saee_d_28*
+-----@Saee_d_28     saeed
 -----لطفا پیام بالا رو پاک نکنید
