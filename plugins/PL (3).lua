@@ -2912,10 +2912,11 @@ text = [[
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
 💡توجه: ابتدای هر دستور انگلیسی یکی از علامت های [!,/,#] را بگزارید.   
 ﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄﹃﹄
-🔖powered by: *برایه خرید ربات به ایدی👇👇 سعید برین
-@Saee_d_28*]]
+● 》 powered by: *برایه خرید ربات به ایدی👇👇 سعید برین
+@Saee_d_28* ]]
+tdcli.sendMessage(msg.chat_id_, 0, 1, text, 1, 'md')
 end
-return text
+end
 end
 
 if matches[1] == "انلاینی" and is_mod(msg) then
