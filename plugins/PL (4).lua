@@ -120,7 +120,7 @@ lock = [[
 📮 با قفل کردن طبق دستورات بالا از ارسال مورد مدنظرتون جلوگیری میکنید.
 🔖powered by: *برایه خرید ربات به ایدی سعید برین
 👉@Saee_d_28👈*)]]
-
+tdcli.sendMessage(msg.chat_id_, 0, 1, text, 1, 'md') 
 elseif lang then
 
 lock = [[
